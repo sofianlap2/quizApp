@@ -8,7 +8,7 @@ const quizData = [
         correct: "d"
     },
     {
-        question: "what the capital of tunisie",
+        question: "what the capital of tunisia",
         a: "soussa",
         b: "Sfax",
         c: "Tunis",
